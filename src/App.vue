@@ -30,6 +30,7 @@ export default {
 	
 	 -moz-osx-font-smoothing: grayscale;
 	 -moz-osx-font-smoothing: grayscale;
+	 -moz-osx-font-smoothing: grayscale;
 	
 	
 	
