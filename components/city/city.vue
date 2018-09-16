@@ -8,6 +8,7 @@
 </template>
 
 <script>
+// 多点尝试 git pull 拉取最新文件
 	import CityHeader from "./cityheader/cityheader"
 	import CitySearch from "./searchcity/searchcity"
 	import CityList from "./citylist/citylist"

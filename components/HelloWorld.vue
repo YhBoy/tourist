@@ -30,6 +30,7 @@
 </template>
 
 <script>
+// 多点尝试 git pull 拉取最新文件
 export default {
   name: 'HelloWorld',
   props: {

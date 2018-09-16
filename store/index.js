@@ -12,8 +12,7 @@ try{
 }catch(e){
 
 }
-
-
+// 多点尝试 git pull 拉取最新文件
 export default new Vuex.Store({
 	state: {
 		city : localStorage.city ||  "西安"

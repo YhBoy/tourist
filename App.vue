@@ -9,8 +9,14 @@
 <script>
 
 
+// 多点尝试 git pull 拉取最新文件
 
-// git 拉取远程最新文件测试
+
+
+
+
+
+
 
 export default {
   name: 'app',
